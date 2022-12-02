@@ -1,0 +1,9 @@
+ol {
+    list-style-type: upper-roman;
+    border-style: solid;
+    border-color: aqua;
+    
+}
+ul {
+    list-style-type: disc
+}
