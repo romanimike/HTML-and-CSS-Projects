@@ -11,7 +11,7 @@ HTML <br>
 CSS <br>
 
 ## Other Information <br>
-#### About the author <br>
+### About the author <br>
 My name is Michael Romani and I am currently living in Chicago, IL. I am currently enrolled in a 400 hour coding bootcamp dedicated to Python primariarily, however I am also learning basics in SQL, HTML and CSS, Java Script, Version Control, and more. <br>
-##### Contact information <br>
+#### Contact information <br>
 Email: Romanimike@gmail.com <br>
