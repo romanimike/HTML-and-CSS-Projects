@@ -1,0 +1,20 @@
+h1 {
+    color: white;
+    background: black;
+    font-size: larger;
+}
+.font_no1 {
+    color: rgb(195, 4, 195);
+    background: black;
+    font-size: large;
+}
+.font_no2 {
+    color: deeppink;
+    background: greenyellow;
+    font-size: x-small;
+}
+h3{
+    color: orange;
+    background: forestgreen;
+    font-size: small;
+}
